@@ -12,7 +12,7 @@
 
 ##### _Log in with Facebook_
 
-<img src=./public/gifs/login.gif alt=login width=800px>
+<img src=./public/gifs/login1.gif alt=login width=800px>
 
 ##### _Realtime chat updates_
 
