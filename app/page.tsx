@@ -10,7 +10,7 @@ export default async function Home() {
     `${process.env.VERCEL_URL || "http://localhost:3000"}/api/getMessages`
   ).then((res) => res.json());
 
-  console.log(data);
+  //console.log(data);
 
   const messages: Message[] = data.messages;
   const session = await getServerSession();
